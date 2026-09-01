@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
+  <title id="title">WhatsApp Media Decrypt</title>
+  <desc id="desc">Secure Python microservice for verified WhatsApp media decryption using HKDF, AES-CBC, and HMAC.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#10121d"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="558" height="178" rx="14" fill="url(#bg)" stroke="#293d75" stroke-width="2"/>
+  <circle cx="28" cy="27" r="6" fill="#60a5fa"/>
+  <text x="47" y="32" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">SECURE_BACKEND / CRYPTOGRAPHY</text>
+  <text x="25" y="78" fill="#f0e8fa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" font-weight="700">WhatsApp Media Decrypt</text>
+  <text x="25" y="108" fill="#b7adbf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Verified media decryption microservice</text>
+  <text x="25" y="145" fill="#60a5fa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">Python  ·  HKDF  ·  AES-CBC  ·  HMAC</text>
+  <text x="516" y="94" text-anchor="middle" fill="#60a5fa" opacity="0.14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="60" font-weight="700">{ }</text>
+</svg>
