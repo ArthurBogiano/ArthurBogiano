@@ -43,16 +43,16 @@ I'm a security-focused software developer working at the intersection of **offen
 
 <p align="center">
   <a href="https://github.com/ArthurBogiano/RoguESP32">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurBogiano&repo=RoguESP32&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=39FF88&border_color=2C1C45" alt="RoguESP32 repository" />
+    <img width="49%" src="./assets/project-rogu.svg" alt="RoguESP32 — authorized wireless security laboratory" />
   </a>
   <a href="https://github.com/ArthurBogiano/bisq-advanced-monitor">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurBogiano&repo=bisq-advanced-monitor&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=39FF88&border_color=2C1C45" alt="Bisq Advanced Monitor repository" />
+    <img width="49%" src="./assets/project-bisq.svg" alt="Bisq Advanced Monitor — headless monitoring and Telegram alerts" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ArthurBogiano/wpp-file-decrypt">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArthurBogiano&repo=wpp-file-decrypt&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=39FF88&border_color=2C1C45" alt="WhatsApp Media Decrypt repository" />
+    <img width="49%" src="./assets/project-wpp.svg" alt="WhatsApp Media Decrypt — verified media decryption microservice" />
   </a>
 </p>
 
@@ -96,12 +96,12 @@ I'm a security-focused software developer working at the intersection of **offen
   <br />
 
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArthurBogiano&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=39FF88&border_color=2C1C45" alt="Arthur Bogiano GitHub statistics" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=ArthurBogiano&background=0D1117&border=2C1C45&stroke=2C1C45&ring=A855F7&fire=39FF88&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=A855F7&dates=7D8590" alt="Arthur Bogiano GitHub contribution streak" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthurBogiano&theme=github_dark" alt="Arthur Bogiano GitHub contribution details" />
   </p>
 
   <p align="center">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurBogiano&bg_color=0D1117&color=A855F7&line=39FF88&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Arthur Bogiano contribution activity graph" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArthurBogiano&theme=github_dark" alt="Arthur Bogiano GitHub statistics" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=ArthurBogiano&background=0D1117&border=2C1C45&stroke=2C1C45&ring=A855F7&fire=39FF88&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A855F7&sideLabels=A855F7&dates=7D8590" alt="Arthur Bogiano GitHub contribution streak" />
   </p>
 </details>
 
